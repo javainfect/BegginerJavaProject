@@ -3,6 +3,8 @@ package BegginerJavaProject;
 import java.util.Scanner;
 /**
  * Class bankaccount constructor with attributes and methods needed
+ * @author namanmishraaa
+ * @version 1.0
  */
 public class bankaccount
 {
